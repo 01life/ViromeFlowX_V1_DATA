@@ -1,0 +1,7 @@
+seqname	dsDNAphage	ssDNA	max_score	max_score_group	length	hallmark	viral	cellular
+NZ_KB899434.1||full	0.927	0.000	0.927	dsDNAphage	41429	7	32.100	28.300
+NZ_KB899437.1||full	0.900	0.007	0.900	dsDNAphage	30392	7	31.200	15.600
+NZ_KB899447.1||full	0.693	0.073	0.693	dsDNAphage	10490	0	35.300	0.000
+NZ_KB899463.1||full	0.500	0.633	0.633	ssDNA	2937	0	50.000	0.000
+NZ_KB899417.1||0_partial	0.893	0.013	0.893	dsDNAphage	36396	7	29.800	27.700
+NZ_KB899418.1||0_partial	0.900	0.000	0.900	dsDNAphage	81640	5	28.300	20.200
